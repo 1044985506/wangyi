@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class WangyiApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(WangyiApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(WangyiApplication.class, args);
+    }
 
 }
